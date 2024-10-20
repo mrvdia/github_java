@@ -2,8 +2,7 @@ public class GITHUB {
     public static void main(String[] args) {
 
 
-        System.out.println("merhaba");
-        System.out.println("merhaba");
+        double  num1 = 10.0;
         
     }
 }
