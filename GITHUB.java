@@ -3,5 +3,7 @@ public class GITHUB {
 
 
         System.out.println("merhaba");
+        System.out.println("merhaba");
+        
     }
 }
